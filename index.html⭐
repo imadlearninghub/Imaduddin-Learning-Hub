@@ -1,24 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
 <title>Imaduddin Learning Hub</title>
-<style>
-body{
-font-family:Arial;
-background:#0f172a;
-color:white;
-text-align:center;
-padding:50px;
-}
-h1{font-size:40px;}
-p{font-size:20px;}
-</style>
 </head>
-<body>
-
-<h1>Imaduddin Learning Hub</h1>
-<p>Professional English Learning Website</p>
-
+<body style="font-family:Arial;text-align:center;padding:50px;">
+<h1>Welcome to Imaduddin Learning Hub</h1>
+<p>Learn Basic to Advanced English with IELTS Preparation</p>
 </body>
 </html>
